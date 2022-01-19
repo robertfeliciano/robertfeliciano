@@ -1,5 +1,5 @@
 - Hi, I’m Robert Feliciano
-- I’m interested in software development and machine learning.
+- I’m interested in software development, kernel programming, and machine learning.
 - I’m currently pursuing a BS in Computer Science with a minor in Pure and Applied Mathematicds at Stevens Institute of Technology.
 - I’m looking to collaborate on any projects having to do with software development, trading, or machine learning!
 
