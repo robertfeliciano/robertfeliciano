@@ -28,8 +28,8 @@ I need to fix this later to make it my stuff
 <a href="https://github-readme-stats.vercel.app/api?username=robertfeliciano&theme=midnight-purple">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=robertfeliciano&layout=compact&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeliciano&hide=php&theme=midnight-purple&layout=compact">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeliciano&hide=php&theme=midnight-purple" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeliciano&hide=php&theme=midnight-purple&layout=compact&count=8">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeliciano&hide=php&theme=midnight-purple&layout=compact&count=8" />
 </a>
 </div>
 
