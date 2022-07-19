@@ -23,11 +23,10 @@ I need to fix this later to make it my stuff
 -->
 
 ## My Stats:
-<!--
+
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=robertfeliciano&count_private=true&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeliciano&langs_count=5&layout=compact&hide=css,scss,makefile&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=robertfeliciano&layout=compact&hide=php&theme=midnight-purple)
--->
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=robertfeliciano&theme=midnight-purple">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=robertfeliciano&layout=compact&count_private=true&show_icons=true&theme=midnight-purple" />
