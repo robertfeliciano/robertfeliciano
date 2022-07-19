@@ -26,6 +26,7 @@ I need to fix this later to make it my stuff
 
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=robertfeliciano&count_private=true&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=robertfeliciano&layout=compact&hide=php&theme=midnight-purple)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertfeliciano&layout=compact"/>
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=robertfeliciano&theme=midnight-purple">
