@@ -26,7 +26,7 @@ I need to fix this later to make it my stuff
 
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=robertfeliciano&theme=midnight-purple">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=robertfeliciano&layout=compact&count_private=true&show_icons=true&theme=midnight-purple" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=robertfeliciano&layout=compact&count_private=true&show_icons=true&theme=midnight-purple" height="100" width="200"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeliciano&hide=php&theme=midnight-purple&layout=compact&langs_count=8">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeliciano&hide=php&theme=midnight-purple&layout=compact&langs_count=8" />
