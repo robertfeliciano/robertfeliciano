@@ -29,10 +29,12 @@ I need to fix this later to make it my stuff
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertfeliciano&hide=php&theme=midnight-purple&layout=compact&langs_count=8" />
 </a>
 
+<!--
 <a href="https://github-readme-stats.vercel.app/api?username=robertfeliciano&theme=midnight-purple">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=robertfeliciano&layout=compact&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 </div>
+-->
 
 <!---
 robertfeliciano/robertfeliciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
