@@ -1,6 +1,6 @@
 - Hi, I’m Robert Feliciano
 - I’m interested in operating systems, machine learning, and trading algorithms.
-- I’m currently pursuing a BS in Computer Science with a minor in Pure and Applied Mathematics at Stevens Institute of Technology.
+- I’m currently pursuing a BS in Computer Science with a minor in Pure and Applied Mathematics.
 
 <!--
 I need to fix this later to make it my stuff
