@@ -1,6 +1,6 @@
 - Hi, I’m Robert Feliciano
-- I’m interested in operating systems, machine learning, and trading algorithms.
-- I’m currently pursuing a BS in Computer Science with a minor in Pure and Applied Mathematics.
+- I’m interested in programming languages, operating systems, and much more!
+- I recently graduated with a BS in Computer Science and a minor in Pure/Applied Mathematics.
 
 <!--
 I need to fix this later to make it my stuff
